@@ -1,0 +1,16 @@
+#manim
+numpy
+#import numpy as np
+scikit-learn
+matplotlib
+Pillow
+#PIL 
+manim_ml
+#langchain
+openai
+#os -- part of python
+#langchain-community 
+#langchain-core
+#langchain_openai
+python-dotenv
+invoke
